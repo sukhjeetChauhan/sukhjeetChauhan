@@ -22,8 +22,8 @@
 ### About Me :
 
 - 💬 I am a full Stack software developer originally from India and now residing in New Zealand
-- 🔭 I’m currently working on React based fitness App
-- 🌱 I’m currently learning mongoDB and will soon start learning Dot.Net
+- 🔭 I’m currently working on PizzaStop website and making small improvements in it.
+- 🌱 I’m currently learning Python.
 - 👯 I’m collaborating on a group project of a meal planner app.
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sukhjeet-chauhan-627401140/">
