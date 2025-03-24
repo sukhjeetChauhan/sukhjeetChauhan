@@ -22,7 +22,7 @@
 ### About Me :
 
 - 💬 I am a full Stack software developer originally from India and now residing in New Zealand
-- 🔭 I’m currently working on PizzaStop website and making small improvements in it.
+- 🔭 I’m currently working on Outgo Tracker and making small improvements in it.
 - 🌱 I’m currently learning Python and ASP .NET.
 
 
